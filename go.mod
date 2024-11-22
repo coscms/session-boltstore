@@ -1,6 +1,6 @@
 module github.com/coscms/session-boltstore
 
-go 1.23.1
+go 1.23
 
 require (
 	github.com/admpub/boltstore v1.1.2
