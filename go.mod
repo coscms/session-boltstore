@@ -3,7 +3,7 @@ module github.com/coscms/session-boltstore
 go 1.23
 
 require (
-	github.com/admpub/boltstore v1.1.2
+	github.com/admpub/boltstore v1.2.0
 	github.com/admpub/sessions v0.2.1
 	github.com/webx-top/echo v1.12.12
 	go.etcd.io/bbolt v1.3.11
